@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() 
+{
+         printf("\n");
+         printf("•........................................•\n");
+         printf("|                                        |\n");
+         printf("|            IT CAREER LOADING...        |\n");
+         printf("|                                        |\n");
+         printf("•........................................•\n");
+         printf("|                                        |\n");
+         printf("|                                        |\n");
+         printf("|          LEARN • CODE • CREATE         |\n");
+         printf("|                                        |\n");
+         printf("•........................................•\n");
+         return 0;
+}        
